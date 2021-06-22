@@ -1,6 +1,6 @@
 import sys
-
-count =0
+"""Adding documentation remotely """
+count = 0
 
 for line in sys.stdin:
     count += 1
